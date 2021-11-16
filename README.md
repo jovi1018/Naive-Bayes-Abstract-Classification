@@ -1,4 +1,4 @@
-## Rank 6 of 325 in Kaggle competation. (https://www.kaggle.com/c/naivebayes-21/leaderboard)
+## Rank 6 of 325 in the Kaggle competation. (https://www.kaggle.com/c/naivebayes-21/leaderboard)
 
 # Naive-Bayes-Abstract-Classification
 Naive Bayes (from scratch) Abstract Classification
